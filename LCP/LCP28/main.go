@@ -25,6 +25,6 @@ func main() {
 	target := 6
 	fmt.Println(purchasePlans(nums, target))
 	nums = []int{2, 2, 1, 9}
-	target = 6
+	target = 10
 	fmt.Println(purchasePlans(nums, target))
 }
